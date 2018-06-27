@@ -1,3 +1,5 @@
+#s
+
 Slyther
 
 Slyther is the creation of an Autonomous "Player Snake" that uses Trigonometry and Euclidian algorithms to find food and avoid enemy snakes.
